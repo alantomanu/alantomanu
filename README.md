@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alanto Manu</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React****Next.js**
 
 - 💬 Ask me about **Nodejs , Express, Javascript**
 
