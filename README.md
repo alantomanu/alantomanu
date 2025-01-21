@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React** and **Next.js**
+- 🌱 I’m currently learning  **Next.js**
 - 💬 Ask me about **Node.js, Express, JavaScript**
 - 📫 How to reach me **alantomanu501@gmail.com**
 
