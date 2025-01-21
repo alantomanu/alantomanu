@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/_alanto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alanto_" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/@alanto501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@alanto501" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/@alantomanu501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@alanto501" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/alantomanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alantomanu" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@alantomanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@alantomanu" height="30" width="40" /></a>
 </p>
